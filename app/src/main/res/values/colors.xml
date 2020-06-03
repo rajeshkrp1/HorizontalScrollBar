@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#00cc99</color>
+    <color name="c_base_color">#f6f6f6</color>
+    <color name="c_divider">#e4e4e4</color>
+    <color name="c_white">#ffffff</color>
+    <color name="c_black">#000000</color>
+    <color name="c_light_grey">#e0e0e0</color>
+    <color name="c_hint_light_grey">#61000000</color>
+    <color name="c_transparent_white">#52FFFFFF</color>
+
+    <color name="c_fb_btn">#4261a8</color>
+    <color name="c_btn_linkedin">#0078ba</color>
+    <color name="pinkish_grey_border">#DCDCDC</color>
+    <color name="c_off_white">#f6f6f6</color>
+    <color name="c_hint_edt">#cccccc</color>
+    <color name="c_view_hint">#50cccccc</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#BC3F4245</color>
+    <color name="elevation_grey">#ABE4E3E3</color>
+    <color name="dark_yellow">#FFF8B908</color>
+
+    <color name="c_brownish_grey">#666666</color>
+    <color name="c_brownish_grey_1">#5A5959</color>
+
+    <color name="text_grey">#33000000</color>
+    <color name="text_grey_text_drawable">#388a8a8f</color>
+    <color name="text_grey_color">#A9A9A9</color>
+    <color name="c_success">#32CD32</color>
+    <color name="c_snackbar_failure">#323232</color>
+    <color name="c_status_bar">#102e2e2e</color>
+    <color name="c_he_verification">#282052</color>
+    <color name="c_verification">#8a88ac</color>
+    <color name="rating_color">#FBB533</color>
+    <color name="c_yellow">#f8b908</color>
+    <color name="c_email">#ff9000</color>
+    <color name="colorWhite">#ffffffff</color>
+    <color name="green_blue">#00CC99</color>
+    <color name="dark_green_blue">#00a680</color>
+    <color name="disable_text">#8EFFFFFF</color>
+    <color name="c_blue">#007aff</color>
+
+    <color name="very_light_grey">#E6E6E6</color>
+    <color name="line_grey1">#E3ECECED</color>
+    <color name="line_grey">#1e000000</color>
+    <color name="grey_desc">#8c8c8c</color>
+    <color name="rought_black">#323a45</color>
+    <color name="green_shadow">#01694f</color>
+    <color name="c_drop_arrow">#999999</color>
+    <color name="c_country">#de000000</color>
+    <color name="shadowColor">#00cc99</color>
+    <color name="c_logout">#ff3333</color>
+    <color name="c_cancel">#00cc99</color>
+    <color name="c_grey_blur">#717171</color>
+    <color name="c_bg_profile">#f6f6f6</color>
+    <color name="c_lines_profile">#FCE6E6E6</color>
+    <color name="c_initial_grey">#FF999999</color>
+    <color name="c_edit_heading_profile">#666666</color>
+    <color name="c_edit_sub_heading_profile">#999999</color>
+    <color name="c_profile_text">#333333</color>
+    <color name="c_bg_spinner">#66000000</color>
+    <color name="c_socail_black">#030303</color>
+    <color name="c_grey_background">#388a8a8f</color>
+    <color name="c_color_country">#010101</color>
+    <color name="ligh_sheemer_orange">#33f8b908</color>
+    <color name="ligh_sheemer_grey">#eeeff2</color>
+    <color name="c_hint_search_hotel">#85ffffff</color>
+    <color name="c_header_contacts">#8a000000</color>
+    <color name="listview_pressed">#FFdddddd</color>
+    <color name="listview_focused">#FF7dbcd3</color>
+    <color name="listview_checked">#FFededed</color>
+    <color name="black_alpha">#60000000</color>
+    <color name="pinned_header_text">#FF3c3c3c</color>
+    <color name="black_alpha_g">#28000000</color>
+    <color name="c_black_room">#323a45</color>
+    <color name="colorAccent_light">#ecfdf4</color>
+    <color name="c_bg_button">#00b5ae</color>
+    <color name="c_color_grey">#8a8a8f</color>
+    <color name="c_bg_search">#61000000</color>
+    <color name="color_aerin_dashboard">#323A45</color>
+    <color name="second_card_color">#707A82</color>
+    <color name="third_card_color">#4B6564</color>
+    <color name="colorGrey">#42000000</color>
+    <color name="light_green">#00cc99</color>
+    <color name="c_popiup_bg">#fafafa</color>
+    <color name="c_he_popup">#8f8f8f</color>
+    <color name="c_line_divider">#d9d9d9</color>
+    <color name="c_grey_header">#d9e6e6e6</color>
+    <color name="c_view_light_grey">#e6e6e6</color>
+    <color name="c_green">#00b386</color>
+    <color name="c_translucent_black">#80000000</color>
+    <color name="c_twitter_btn">#2fadf4</color>
+    <color name="c_blue_et">#423399ff</color>
+    <color name="color_red">#CDDC39</color>
+    <color name="tranparent_overlay">#AA3E3E3E</color>
+    <color name="yellow">#FFEB2C</color>
+
+    <integer-array name="contacts_text_background_colors">
+        <item>0xFF9C27B0</item>
+        <item>0xFFE35F36</item>
+        <item>0xFFFC4A86</item>
+        <item>0x423399FF</item>
+        <item>0xFF2FADF4</item>
+        <item>0xFF20E7B5</item>
+        <item>0xFFDFEF42</item>
+        <item>0xFFE09D39</item>
+        <item>0xFF3FD1E4</item>
+        <item>0xFFE94C1A</item>
+    </integer-array>
+
+</resources>
